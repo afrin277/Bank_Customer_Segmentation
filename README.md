@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Bank Customer Segmentation
 
 ## Project Overview
@@ -31,3 +32,7 @@ The project uses the `bank_transactions.csv` dataset. Review the dataset's sourc
 
 ## Author
 Afrin
+=======
+# Bank_Customer_Segmentation
+Interactive Power BI dashboard for customer demographics, transaction behavior, customer segmentation, and profitability analysis.
+>>>>>>> origin/main
